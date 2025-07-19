@@ -16,7 +16,8 @@ shopify app init
 ## Tailwind v3 Install
 
 Wait for App to be setup then follow the below steps. Install tailwind-css v3.
-*Note*:- If you are going to use Docker to deploy the app then you need to install tailwind as dependency not as devDependency so remove the -D tag from below command.
+
+***Note***:- If you are going to use Docker to deploy the app then you need to install tailwind as dependency not as devDependency so remove the -D tag from below command.
 
 ```bash
 npm install -D tailwindcss@3 postcss autoprefixer
